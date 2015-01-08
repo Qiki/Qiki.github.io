@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Hello | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Hello | Qiki's Home]]></title>
   <link href="http://qiki.github.io/blog/categories/hello/atom.xml" rel="self"/>
   <link href="http://qiki.github.io/"/>
-  <updated>2015-01-07T23:42:22-05:00</updated>
+  <updated>2015-01-07T23:51:45-05:00</updated>
   <id>http://qiki.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Qi Wang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
