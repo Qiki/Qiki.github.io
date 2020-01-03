@@ -1,0 +1,13 @@
+body, html {
+  background-color: black;
+  height: 100%;
+}
+
+
+.introduction {
+  color: white;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
